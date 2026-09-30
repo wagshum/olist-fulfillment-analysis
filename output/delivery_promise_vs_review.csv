@@ -1,0 +1,7 @@
+delivery_outcome,orders,avg_review_score,pct_one_star,pct_four_or_five
+1. Early,88149,4.29,6.6,82.8
+2. On the promised day,1280,4.04,8.4,73.9
+3. 1-3 days late,1852,3.29,25.2,53.2
+4. 4-7 days late,1747,2.1,58.5,22.5
+5. 8-14 days late,1446,1.67,70.6,11.1
+6. 15+ days late,1335,1.73,68.8,12.7

@@ -1,0 +1,10 @@
+# Generated database (rebuild with: python src/load_data.py)
+data/olist.db
+
+# Raw data: download separately (see README)
+data/raw/*.csv
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

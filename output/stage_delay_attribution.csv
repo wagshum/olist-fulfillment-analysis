@@ -1,0 +1,4 @@
+stage_order,stage,median_hrs_on_time,median_hrs_late,extra_hours_when_late
+1,Payment approval,0.3,0.4,0.1
+2,Seller handoff,43.0,73.6,30.6
+3,Carrier transit,167.0,628.8,461.8

@@ -1,0 +1,5 @@
+promise_window,orders,late_pct,avg_days_early,avg_review_score
+1. <= 10 days promised,3945,10.5,3.2,4.34
+2. 11-20 days,26719,6.0,8.2,4.24
+3. 21-30 days,45932,7.7,11.5,4.13
+4. 30+ days,19859,5.0,19.5,4.07

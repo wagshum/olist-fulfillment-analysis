@@ -1,0 +1,3 @@
+delivery_outcome,orders,items_revenue,freight_revenue,avg_order_value,pct_poor_review,revenue_with_poor_review
+On time or early,89922,12232654.0,2032894.0,136.04,9.2,1345123.0
+Late,6533,985745.0,164953.0,150.89,60.9,618914.0

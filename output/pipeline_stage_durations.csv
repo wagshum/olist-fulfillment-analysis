@@ -1,0 +1,4 @@
+stage_order,stage,orders,median_hours,p90_hours,mean_hours
+1,Payment approval,95082,0.3,33.3,9.7
+2,Seller handoff,95082,44.4,144.5,68.4
+3,Carrier transit,95082,170.6,454.7,224.7
