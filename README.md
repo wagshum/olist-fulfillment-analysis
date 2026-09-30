@@ -29,7 +29,7 @@ The damage is not gradual. Between "on time" and "4–7 days late" the 1-star ra
 | Seller handoff | 44.4 hrs | 144.5 hrs | 43.0 hrs | 73.6 hrs |
 | Carrier transit | 170.6 hrs | 454.7 hrs | 167.0 hrs | 628.8 hrs |
 
-Transit is 79% of total fulfillment time, and late orders spend an extra 462 hours there. Seller handoff adds another 31 hours when orders run late — a smaller effect, but the one the marketplace can directly influence.
+Transit dominates the timeline — a median of 171 hours out of 247 end to end, and 76% of elapsed time for the typical order — and late orders spend an extra 462 hours there. Seller handoff adds another 31 hours when orders run late — a smaller effect, but the one the marketplace can directly influence.
 
 **Late deliveries concentrate in a minority of sellers.** Among 425 sellers with 50+ delivered orders, late rates range from 0% to 32%. The worst 30% of sellers account for **52% of all late orders**, which makes seller-level intervention more valuable than a uniform process change.
 
